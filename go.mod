@@ -7,7 +7,7 @@ require (
 	github.com/golang/protobuf v1.3.2 // indirect
 	github.com/gomodule/redigo v2.0.0+incompatible // indirect
 	github.com/gorilla/mux v1.7.3
-	github.com/gorilla/websocket v1.4.0 // indirect
+	github.com/gorilla/websocket v1.4.1 // indirect
 	github.com/hashicorp/consul/api v1.1.0 // indirect
 	github.com/liangdas/armyant v0.0.0-20181120080818-50ccc5936868
 	github.com/liangdas/mqant v2.0.0+incompatible
